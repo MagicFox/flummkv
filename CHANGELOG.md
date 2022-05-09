@@ -1,3 +1,6 @@
+## 1.0.28
+* upgrade: support Null safety
+
 ## 1.0.27
 * chore: migrate to embedding v2.
 

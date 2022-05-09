@@ -1,11 +1,20 @@
-# fmmkv
-fork by https://github.com/sososdk/flummkv.git
+# flummkv
+fork by [flummkv](https://github.com/sososdk/flummkv.git)
 
-Plugin that allow Flutter to read value from persistent storage or save value to persistent storage based on MMKV framework
+Plugin that allow Flutter to read value from persistent storage or save value to persistent storage based on [MMKV](https://github.com/Tencent/MMKV) framework
+
+
+
+## Change Log
+Check out the [CHANGELOG.md](./CHANGELOG.md) for details of change history.
+
+
 
 ## Getting Started
 
 Open terminal, cd to your project directory, run pod repo update to make CocoaPods aware of the latest available MMKV versions
+
+
 
 ## Quick Tutorial
 
